@@ -1,0 +1,6 @@
+{
+    "HOST":"http://localhost:81/",
+    "DDBB_USER":"root",
+    "DDBB_PASSWORD":"",
+    "DDBB_HOST":"localhost"
+}
